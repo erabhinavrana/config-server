@@ -27,8 +27,9 @@ Start the server
 
 ## Demo
 
-[Book-Service](http://localhost:8888/bookstore-service/default)
-[Promo-Service](http://localhost:8888/promo-service/default)
+[bookstore-service.properties](http://localhost:8888/bookstore-service/default)
+
+[promo-service.properties](http://localhost:8888/promo-service/default)
 
 
 ## Appendix
